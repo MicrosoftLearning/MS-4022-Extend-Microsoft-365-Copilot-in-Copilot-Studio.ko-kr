@@ -108,7 +108,7 @@ Copilot Studio에서 새 선언적 에이전트를 만드는 것으로 시작합
 
 다음으로 Microsoft 365 Copilot에서 선언적 에이전트를 실행하고 **몰입형** 및 **컨텍스트** 환경 모두에서 기능을 확인해 보겠습니다.
 
-이전 단계를 따른 결과 현재 **몰입형** 에이전트 환경에 있습니다. 오른쪽의 **에이전트** 창에서 현재 채팅 중인 에이전트로 **Product Support**가 선택되어 있는지 확인합니다.
+이전 단계를 따른 결과 현재 **몰입형** 에이전트 환경에 있습니다. 채팅 인터페이스 측면의 **에이전트** 창에서 현재 채팅 중인 에이전트로 **Product Support**가 선택되어 있는지 확인합니다.
 
 ![Microsoft 365 Copilot의 Product Support 에이전트가 있는 몰입형 환경 스크린샷.](../Media/product-support-immersive.png)
 
@@ -117,7 +117,7 @@ Copilot Studio에서 새 선언적 에이전트를 만드는 것으로 시작합
 
 브라우저에서 계속하여 **컨텍스트** 환경을 테스트해 보겠습니다.
 
-1. 채팅 창의 오른쪽에 있는 **에이전트** 창 위에서 **Copilot**을 선택하여 **Product Support** 에이전트와의 몰입형 채팅을 종료하고 Microsoft 365 Copilot과 채팅합니다.
+1. 사이드바의 **에이전트** 창 위에서 **채팅** 또는 **M365 Copilot**을 선택하여 **Product Support** 에이전트와의 몰입형 채팅을 종료하고 Microsoft 365 Copilot과 채팅합니다.
 
     ![Microsoft 365 Copilot의 사이드바에 있는 Copilot 단추의 스크린샷.](../Media/select-copilot.png)
 

@@ -70,15 +70,19 @@ SharePoint URL을 에이전트에 기반 지식 원본으로 추가합니다.
 
 ### SharePoint URL 추가
 
-1. Copilot Studio에서 Product Support 에이전트 개요 페이지의 **지식** 섹션에서 **지식 추가**를 선택합니다.
+1. 웹 브라우저에서 [Microsoft Copilot Studio](https://copilotstudio.microsoft.com/)(`https://copilotstudio.microsoft.com`)로 이동합니다.
+1. **에이전트**를 선택합니다.
+1. **Microsoft 365용 Copilot**을 선택합니다.
+1. **Product Support** 에이전트를 선택합니다.
+1. 에이전트 개요 페이지의 **기술 자료** 섹션에서 **기술 자료 추가**를 선택합니다.
 
     ![Product Support 에이전트에 대한 지식 추가 단추가 강조 표시된 Microsoft Edge의 Copilot Studio 스크린샷.](../Media/product-support-add-knowledge.png)
 
-2. 열리는 마법사의 **지식 추가** 페이지에서 **SharePoint**를 선택합니다.
-3. 텍스트 상자에 **Products** SharePoint 라이브러리의 URL을 붙여넣고 **추가**를 선택합니다. `https://DOMAIN.sharepoint.com/sites/ProductSupport/Products` 형식이어야 합니다.
+1. 열리는 마법사의 **지식 추가** 페이지에서 **SharePoint**를 선택합니다.
+1. 텍스트 상자에 **Products** SharePoint 라이브러리의 URL을 붙여넣고 **추가**를 선택합니다. `https://DOMAIN.sharepoint.com/sites/ProductSupport/Products` 형식이어야 합니다.
 
-4. **SharePoint 추가** 창에서 **추가**를 선택한 뒤 지식 원본이 에이전트에 추가될 때까지 기다립니다. 1분 또는 2분이 걸릴 수 있습니다.
-5. **Products** 라이브러리가 에이전트 개요 정보의 **지식** 섹션 아래에 표시됩니다.
+1. **SharePoint 추가** 창에서 **추가**를 선택한 뒤 지식 원본이 에이전트에 추가될 때까지 기다립니다. 1분 또는 2분이 걸릴 수 있습니다.
+1. **Products** 라이브러리가 에이전트 개요 정보의 **지식** 섹션 아래에 표시됩니다.
 
 > **참고**: Copilot Studio 에이전트는 사용자를 대신하여 문서에 액세스합니다. 에이전트는 최종 사용자가 액세스할 수 있는 문서에서만 답변과 콘텐츠를 가져올 수 있습니다.
 
