@@ -19,7 +19,9 @@ lab:
 ## SharePoint 커넥터 작업 만들기
 
 1. 웹 브라우저에서 [Copilot Studio](https://www.copilotstudio.microsoft.com)(`https://www.copilotstudio.microsoft.com`)로 이동합니다.
-1. **라이브러리**에서 **Product Support** 에이전트를 선택합니다.
+1. 사이드바에서 **에이전트**를 선택합니다.
+1. **Microsoft 365 Copilot**을 선택합니다.
+1. **에이전트**에서 **Product Support**를 선택합니다.
 1. **작업**에서 **작업 추가**를 선택합니다.
 1. **작업 추가** 창에서 **검색 창**에 `SharePoint`을(를) 입력합니다. 관련 작업이 창에 표시될 때까지 기다립니다.
 1. **목록 폴더 SharePoint** 커넥터 작업을 찾아 선택합니다.
