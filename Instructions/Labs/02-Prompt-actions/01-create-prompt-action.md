@@ -13,7 +13,8 @@ lab:
 
 1. 웹 브라우저에서 [Copilot Studio](https://copilotstudio.microsoft.com)(`https://copilotstudio.microsoft.com`)로 이동하여 Copilot Studio를 엽니다.
 1. 왼쪽 탐색 영역에서 **도구**를 선택합니다.
-1. **새로 만들기**를 선택한 다음 **프롬프트**를 선택합니다. 프롬프트 작성기 UI로 이동하게 됩니다.
+1. **+ 새 도구**를 선택합니다.
+1. 새 도구 팝업 창에서 **프롬프트**를 선택합니다. 프롬프트 작성기 UI로 이동됩니다.
 1. **지침** 텍스트 상자에 `Create a marketing pitch for a product based on a `을(를) 입력합니다.
 1. 입력한 문장 끝에 커서를 놓고 **콘텐츠 추가**를 선택합니다 .
 1. **텍스트**를 선택합니다.
@@ -64,29 +65,10 @@ lab:
 1. **Contoso 마케팅 피치 만들기** 프롬프트를 선택합니다.
 1. **에이전트에 추가**를 선택합니다. 이제 도구가 Product Support 에이전트의 **도구**에 나열됩니다.
 
-### 프롬프트 도구 구성
-
-1. 에이전트 개요 페이지의 **도구** 섹션에서 `Contoso Marketing Pitch` 도구를 선택합니다. 도구의 속성 및 설정을 구성하는 페이지로 이동하게 됩니다.
-1. 프롬프트 도구 내에서 위쪽 탐색 영역의 **입력**을 선택합니다.
-1. **추가 입력**에서 **추가**를 선택합니다.
-1. **초안** 변수를 선택합니다. 양식이 나타납니다.
-1. **에이전트가 이 입력을 채우는 방법** 필드가 **동적으로 최고의 옵션 채우기(기본값)** 로 설정되어 있는지 확인합니다.
-1. **표시 이름** 필드에서 `Initial draft`을 입력합니다.
-1. **다음으로 식별** 필드가 **사용자의 전체 응답**으로 설정되어 있는지 확인합니다.
-1. 창 오른쪽 위의 **저장**을 선택합니다.
-
 ### 에이전트의 지침 업데이트
 
 프롬프트 사용을 안내하기 위해 에이전트의 지침을 업데이트합니다.
 
 1. **지침** 텍스트 상자에서 기존 명령 텍스트에 다음을 추가합니다. `Use the Contoso Marketing Pitch action to help marketing stakeholders craft pitches for products based on their draft ideas.` 
 
-## (선택 사항) Copilot Studio에서 프롬프트 도구 테스트
-
-다음으로, Copilot Studio에서 프롬프트 도구로 에이전트를 테스트합니다.
-
-1. Copilot Studio의 에이전트 개요 페이지에 있는 **에이전트 테스트** 창에서 **새로 고침** 단추를 선택하여 테스트 창을 새로 고치고 에이전트의 최신 변경 내용을 로드합니다.
-1. 테스트 대화의 텍스트 상자에 `Create a Contoso marketing pitch based on the following draft: "Bouncy ball is the hottest product on the market for both youth and adults. It's durable and the largest of its kind."` 입력 후 메시지를 보냅니다.
-1. 응답을 검토하여 에이전트가 사용자 지정 프롬프트의 지침에서 제공한 안내를 따르고 있음을 확인합니다.
-
-연습을 완료하고 프롬프트 도구의 기능을 확인했습니다.
+연습을 완료하고 에이전트에 대한 프롬프트 도구를 만들었습니다.
