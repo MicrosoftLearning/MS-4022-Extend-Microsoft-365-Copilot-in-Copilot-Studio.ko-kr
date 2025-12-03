@@ -1,3 +1,5 @@
+**⚠️ This GitHub repo will retire on 30th December 2025.** 
+
 # 랩: Copilot Studio에서 Microsoft 365 Copilot 확장
 
 이 리포지토리에는 Microsoft 기술 과정 **MS-4022: Copilot Studio에서 Microsoft 365 Copilot 확장**에 대한 연습 및 지원 파일이 포함되어 있습니다.
